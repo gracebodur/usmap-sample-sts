@@ -129,7 +129,7 @@ var simplemaps_usmap_mapdata={
     },
     NC: {
       name: "North Carolina",
-      url: "https://gracebodur.github.io/usmap-ui-sts/nc_pool_law.html"
+      url: "https://gracebodur.github.io/usmap-sample-sts/nc_pool_law.html"
     },
     DC: {
       name: "District of Columbia"
