@@ -1,3 +1,3 @@
 # usmap-sample-sts
 
-#### A sample US map ui for STS using https://simplemaps.com.
+#### A sample US map ui for STS internship using https://simplemaps.com.
